@@ -56,6 +56,6 @@ performs tasks like opening websites, telling the time/date, and fetching search
 
 This project is free to use for personal and educational purposes. Attribution is appreciated but not required.
 
-## Credit 
-[Arun](https://github.com/Arun020)
-[Vivek](https://github.com/Vivekkk-1)
+## Credits
+- [Arun](https://github.com/Arun020)
+- [Vivek](https://github.com/Vivekkk-1)
